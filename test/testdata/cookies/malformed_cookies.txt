@@ -1,0 +1,7 @@
+# Netscape HTTP Cookies
+# HTTP Cookie File
+# http://curl.haxx.se/rfc/cookie_spec.html
+
+# domain   include subdomains  path   secure  expiration              name          value
+www.foobar.foobar   FALSE   /   FALSE   0   COOKIE   VALUE
+www.foobar.foobar   FALSE   /   FALSE   1753095756   YTSESSION-fnj3yf   1753095756
